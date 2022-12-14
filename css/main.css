@@ -84,3 +84,19 @@ body {
     border: none;
     cursor: pointer;
 }
+
+/* Посты */
+.posts__header {
+    overflow: hidden;
+}
+.posts {
+    background-color: #EDF7FA;
+    margin-top: 72px;
+    margin-bottom: 28px;
+}
+.posts__titl {
+    float: left;
+}
+.posts__header {
+    float: right;
+}
